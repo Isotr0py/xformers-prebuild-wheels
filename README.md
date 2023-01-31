@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # xformers-prebuild-wheels
 xformers prebuild wheels for Tesla T4 and P100 GPU, developed in and for kaggle notebook environment.
 
