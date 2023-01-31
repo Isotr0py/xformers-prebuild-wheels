@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # xformers-prebuild-wheels
 xformers prebuild wheels for Tesla T4 and P100 GPU, developed in and for kaggle notebook environment.
 
@@ -20,3 +21,7 @@ Thanks to [stable-diffusion-webui-colab](https://github.com/camenduru/stable-dif
 
 ## P100, Python 3.7 and Cuda11.3(Default in kaggle)
 `pip install https://github.com/Isotr0py/xformers-prebuild-wheels/raw/main/P100/xformers-0.0.14.dev0-cp37-cp37m-linux_x86_64.whl`
+=======
+# xformers_prebuild_wheels
+xformers prebuild wheels for T4 and P100 GPU, suitable for kaggle notebook environment.
+>>>>>>> 4bd17e7d69eaed2938935cc7728fb20d15fd6fd5
